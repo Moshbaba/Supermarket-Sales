@@ -28,6 +28,9 @@
   - `Rating` – Customer feedback score.
   - `Time & Hour` – Transaction timestamp for peak hour analysis.
   - `Customer Type` – Member vs. Non-member.
+    ### Data Source:
+The dataset used for this analysis is publicly available on [Kaggle](https://www.kaggle.com/datasets/lovishbansal123/sales-of-a-supermarket).
+
 
 ---
 ## 3. PROCESS: Data Cleaning & Preparation
